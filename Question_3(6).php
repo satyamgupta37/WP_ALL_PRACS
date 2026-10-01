@@ -1,15 +1,15 @@
 <!DOCTYPE html> 
-<html lang="en"> 
+<html> 
 <head> 
-    <meta charset="UTF-8"> 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
     <title>Simple Calculator</title> 
 </head> 
 <body> 
     <h2>Simple Calculator</h2> 
     <form method="post"> 
-        Enter First Number: <input type="number" name="num_1" required><br> 
-        Enter Second Number: <input type="number" name="num_2" required><br> 
+        Enter First Number:
+        <input type="number" name="num_1"><br> 
+        Enter Second Number:
+        <input type="number" name="num_2"><br> 
         <input type="submit" value="Calculate"> 
     </form> 
 
